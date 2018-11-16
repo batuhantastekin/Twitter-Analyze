@@ -7,6 +7,7 @@ python setup.py install
 or if you have different versions of python installed then
 
 python3 setup.py install 
+
 to install the dependencies.
 
 ##Usage
@@ -16,8 +17,11 @@ Once you have created an app on twitter and installed all the dependencies by ru
 ##Built With
 
 Python 3.6
+
 tweepy
+
 textblob
+
 matplotlib
 
 
@@ -25,8 +29,11 @@ matplotlib
 
 Fork it
 Create your feature branch: git checkout -b my-new-feature
+
 Commit your changes: git commit -am 'Add some feature'
+
 Push to the branch: git push origin my-new-feature
+
 Submit a pull request
 
 ##Authors
